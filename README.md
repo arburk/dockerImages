@@ -10,3 +10,6 @@ Podman is only available in version<3, this container will encapsulate the build
 __Further documentation:__
 - https://www.testcontainers.org/supported_docker_environment/continuous_integration/dind_patterns/
 - https://hub.docker.com/_/docker
+
+## Resources
+- [Alpine linux CDN](https://dl-cdn.alpinelinux.org/alpine/v3.14/) for apk install packages
