@@ -21,4 +21,4 @@ https://en.wikipedia.org/wiki/Pi-hole
 
 ## Resources
 
-- [Alpine linux CDN](https://dl-cdn.alpinelinux.org/alpine/v3.14/) for apk install packages
+- [Alpine linux CDN](https://dl-cdn.alpinelinux.org/alpine/) - for apk install packages
